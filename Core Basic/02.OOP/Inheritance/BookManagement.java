@@ -1,3 +1,4 @@
+package Inheritance;
 import java.util.Scanner;
 
 class date {
